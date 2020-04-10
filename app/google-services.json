@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159998142952",
+    "firebase_url": "https://twitter-3b99d.firebaseio.com",
+    "project_id": "twitter-3b99d",
+    "storage_bucket": "twitter-3b99d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159998142952:android:cc3747b0751819592d5c5d",
+        "android_client_info": {
+          "package_name": "com.nakulbhoria.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159998142952-5n0d0vbt32dthe8is2sieo32ng24jg0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJCB2cmHrZTn6hmhxdupB5ei68QnkJTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159998142952-5n0d0vbt32dthe8is2sieo32ng24jg0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
